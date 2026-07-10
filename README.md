@@ -61,7 +61,7 @@ The project uses unsupervised learning, so there is no target variable.
 2. Install the required Python libraries.
 3. Open the Jupyter Notebook.
 4. Run all notebook cells.
-
+ 
 ## Results
 
 The K-Means model groups customers into meaningful clusters based on their purchasing patterns and demographic characteristics. PCA is used to visualize the customer segments in two dimensions.
